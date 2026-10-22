@@ -1,0 +1,6 @@
+{
+  "name": "Matematika Kilat - Perkalian Cepat",
+  "description": "Game latihan perkalian cepat dan matematika dasar interaktif dengan kustomisasi tingkat kesulitan, mode latihan stopwatch, dan mode tantangan waktu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
